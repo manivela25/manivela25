@@ -1,0 +1,4 @@
+# Ignore all files except Python projects
+*
+!.gitignore
+!todo_list.py
