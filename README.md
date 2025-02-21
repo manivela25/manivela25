@@ -1,23 +1,33 @@
-# 🚀 My Python Mini Projects
+# 🚀 My Python Mini Projects  
 
-Welcome to my GitHub repositories! Here are some of my Python projects:
+Welcome to my GitHub repositories! Here are some of my Python projects:  
 
 ---
 
-## 📌 1️⃣ Calculator 🧮  
+## 📝 1️⃣ Calculator 🧮  
+### 📌 Features:
 A simple command-line calculator that supports:  
-✔ Addition (+)  
-✔ Subtraction (-)  
-✔ Multiplication (*)  
-✔ Division (/)  
+✔ **Addition (+)**  
+✔ **Subtraction (-)**  
+✔ **Multiplication (*)**  
+✔ **Division (/)**  
 
-🔗 **[View Source Code](https://github.com/manivela25/python-mini-projects/blob/main/calculator.py)**  ## 📌 2️⃣ Python Mini Projects 1 📝  
-A collection of various Python mini-projects including:  
-✔ Advanced To-Do List  
-✔ File Organizer  
-✔ Basic Data Processing  
+🔗 **[View Source Code](https://github.com/manivela25/python-mini-projects/blob/main/calculator.py)**  
 
-🔗 **[View Repository](https://github.com/manivela25/python-mini-projects1)**  
+---
+
+## 📝 2️⃣ Advanced To-Do List Application 📝  
+A powerful command-line To-Do List application written in Python. 🚀  
+With this app, you can **add, view, mark, and delete tasks** easily!  
+
+### 📌 Features:
+✔ **Add new tasks** 📝  
+✔ **View all tasks** 👀  
+✔ **Mark tasks as completed** ✅  
+✔ **Delete tasks** 🗑  
+✔ **Exit the application** 👋  
+
+🔗 **[View Source Code](https://github.com/manivela25/python-mini-project1/blob/main/todo_list.py)**  
 
 ---
 
@@ -25,3 +35,4 @@ A collection of various Python mini-projects including:
 To run any of these projects, use the following command in your terminal:  
 ```sh
 python3 filename.py
+
