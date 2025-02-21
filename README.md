@@ -27,7 +27,7 @@ With this app, you can **add, view, mark, and delete tasks** easily!
 ✔ **Delete tasks** 🗑  
 ✔ **Exit the application** 👋  
 
-🔗 **[View Source Code](https://github.com/manivela25/python-mini-project1/blob/main/todo_list.py)**  
+🔗 **[View Source Code](https://github.com/manivela25/manivela25/blob/main/todo_list.py)**  
 
 ---
 
