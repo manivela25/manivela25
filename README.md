@@ -12,7 +12,7 @@ A simple command-line calculator that supports:
 ✔ **Multiplication (*)**  
 ✔ **Division (/)**  
 
-🔗 **[View Source Code](https://github.com/manivela25/python-mini-projects/blob/main/calculator.py)**  
+🔗 **[View Source Code](https://github.com/manivela25/manivela25/blob/main/calculator.py)**  
 
 ---
 
