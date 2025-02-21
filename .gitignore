@@ -1,0 +1,6 @@
+# Ignore all files except README.md
+*
+!.gitignore
+!README.md
+!todo_list.py
+!todo_list1.py
